@@ -46,16 +46,19 @@ Analysing more than 10,000 TMDb movies and getting the answers to
 
 ## Part 3: Practical Statistics
 
-### Project #3 Analyze A/B Test Results
-
+### [Project #3 Analyze A/B Test Results](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Analyze_ab_test_results_notebook-Copy1.ipynb)
+For this project, worked to understand the results of an A/B test run by an e-commerce website. Goal is to work through the notebook to help the company understand if they should:
+- Implement the new webpage,
+- Keep the old webpage, or
+- Perhaps run the experiment longer to make their decision.
 ***
 
 ## Part 4: Data Wrangling
 
-### Project #4 Wrangle and Analyze Data
+### [Project #4 Wrangle and Analyze Data] ()
 
 ***
 
 ## Part 5: Data Visualization
 
-### Project #5 Communicate Data Findings
+### [Project #5 Communicate Data Findings]()
