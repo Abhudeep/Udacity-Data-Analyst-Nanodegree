@@ -1,63 +1,44 @@
-# 🌟 Udacity Data Analyst Nanodegree 
+# Ford-GoBike-Data-Exploration-and-Visualization
+## by Abhudeep Kaur
 
-Focus area: Data analysis using Python.
+This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process which is a project part of the Udacity Data Analytics Nanodegree course.
 
-Completion: March 2023
+In the first part (1/2) I used Python visualization libraries to systematically wrangle and explore the 2019-fordgobike-tripdata datafile, starting from plots of single variables and building up to plots of multiple variables.
 
-At the end of the course, these are my 🔑 **key learnings**:
-- Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
-- Apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests and building supervised learning models.
-- Learn the data wrangling process of gathering, assessing, and cleaning data and use Python to wrangle data programmatically and prepare it for analysis.
-- Apply visualization principles to the data analysis process and explore data visually at multiple levels to find insights and create a compelling story.
+In this second part of the project (2/2), I present slides with visualizations the interesting relationships, patterns and insights that I discovered in the (in part 1) selected and cleaned dataset.
 
-View the [course](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf).
 
-***
+## Dataset
 
-# 📚 Projects
+> There are 183412 bikes in the dataset with 16 features. Most variables are numeric in nature, but the variables like user type, gender, bike share should be ordered factor variables with the following levels.
 
-_Click on the project title to view my projects! 🙂_
+user type: Customer, Subscriber
+gender: Male, Female, Other
+bike_share_for_all_trip: Yes, No
 
-## Part 1: Welcome to the Nanodegree Program
 
-### 🌤 [Project #1 Explore Weather Trends]
-In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
+## Summary of Findings
 
-***
+> The maximum duration of bike trip has extremely high value: 1409.1333333333334 minutes.
+> The median of the distribution is 8.5 mins
+> We have dropped 9346 rows of bike rides with a duration longer than 24.8 minutes, calculated by outlier detection through Q1-1.5(IQR) and Q3+1.5(IQR)
+> The distribution of starting a bike trip has mode on Thursday
+> The most busy hour is 1700 hrs and 0800 hrs.
+> Market St at 10th St is most popular start station
+> San Francisco Caltrain (Townsend St at 4th St) is most popular end station
+> Subscribers typically have shorter bike trips (with quite high mode in the bin 6-8 minutes)
+> The use of this service for Subscribers is high on weekdays and decreases on weekends
+> The average bike trip duration of Customers is almost the double of Subscribers
+> The that third quartile of Subscribers is even below the median of the Customers distribution.
+> Customers have as busy hours for starting their bike trip after 1100 hrs and before 1800 hrs.Subscribers have as busy hours for starting their bike trip 0800-0900 hrs.
+> The trip duration has a dip between 0600 hrs and 2100 for both user_types.
 
-## Part 2: Introduction to Data Analysis
 
-### 🍷 [Case Study #1 Wine Quality](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project%20Wine%20quality.ipynb)
+## Key Insights for Presentation
 
-A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol
-level, sugar content and acidity level) are associated with higher wine quality
+> In the presentation I focus on the relationship between bikes ride count and trip duration and user_types (Customers, Subscribers).
+> There is also focus on outlier removal impact
+> There is a barchart visual with the distribution of trip count between the 2 user_types. This is followed by the distribution of biketrip duration for each user_type (2 histograms side-by-side).
+> There is also a clustered barplot of trip duration by both end_station_name (limited to the top 10 end stations). This illustrates that also the location of the end destination station matters as variable for explaining bike usage and trip duration.
 
-### 🎬 [Project #2 TMDb Movie Analysis](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project2-%20Kaggle-Movie%20Dataset%20.ipynb)
 
-Analysing more than 10,000 TMDb movies and getting the answers to 
-- Does having a higher popularity associated with a higher revenue and budget?
-- Does having a higher popularity results in a higher profitability?
-- Which are the top 10 profitable movies?
-- Which are the top 10 Genres?
-- How has profitability moved year on year?
-
-***
-
-## Part 3: Practical Statistics
-
-### [Project #3 Analyze A/B Test Results](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Analyze_ab_test_results_notebook-Copy1.ipynb)
-For this project, worked to understand the results of an A/B test run by an e-commerce website. Goal is to work through the notebook to help the company understand if they should:
-- Implement the new webpage,
-- Keep the old webpage, or
-- Perhaps run the experiment longer to make their decision.
-***
-
-## Part 4: Data Wrangling
-
-### [Project #4 Wrangle and Analyze Data](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Wrangle%20and%20Analyze%20Data%20-%20WeRateDogs.ipynb)
-
-***
-
-## Part 5: Data Visualization
-
-### [Project #5 Communicate Data Findings]()
