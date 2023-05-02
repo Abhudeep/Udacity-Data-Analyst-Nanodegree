@@ -37,9 +37,14 @@ level, sugar content and acidity level) are associated with higher wine quality
 
 Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy.
 
-### 🎬 [Project #2 TMDb Movie Analysis]()
+### 🎬 [Project #2 TMDb Movie Analysis](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project2-%20Kaggle-Movie%20Dataset%20.ipynb)
 
-Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie?
+Analysing more than 10,000 TMDb movies and getting the answers to 
+- Does having a higher popularity associated with a higher revenue and budget?
+- Does having a higher popularity results in a higher profitability?
+- Which are the top 10 profitable movies?
+- Which are the top 10 Genres?
+- How has profitability moved year on year?
 
 ***
 
