@@ -19,10 +19,6 @@ View the [course](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 _Click on the project title to view my projects! 🙂_
 
 ## Part 1: Welcome to the Nanodegree Program
-
-### 🌤 [Project #1 Explore Weather Trends]
-In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
-
 ***
 
 ## Part 2: Introduction to Data Analysis
