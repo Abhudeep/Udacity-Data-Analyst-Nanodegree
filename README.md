@@ -53,7 +53,7 @@ For this project, worked to understand the results of an A/B test run by an e-co
 ***
 
 ## Part 4: Data Wrangling
-
+Discovered insights by cleaning data, Storing data, analyzing and visualizing data of twitter.
 ### [Project #4 Wrangle and Analyze Data](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Wrangle%20and%20Analyze%20Data%20-%20WeRateDogs.ipynb)
 ***
 
