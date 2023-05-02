@@ -28,7 +28,7 @@ In this time-series analysis, I use moving average method to analyze local and g
 
 ## Part 2: Introduction to Data Analysis
 
-### 🍷 [Case Study #1 Wine Quality](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project%20Wine%20quality.ipynbhttps://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project%20Wine%20quality.ipynb)
+### 🍷 [Case Study #1 Wine Quality](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project%20Wine%20quality.ipynb)
 
 A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol
 level, sugar content and acidity level) are associated with higher wine quality
