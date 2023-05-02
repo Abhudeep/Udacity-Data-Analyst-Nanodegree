@@ -33,10 +33,6 @@ In this time-series analysis, I use moving average method to analyze local and g
 A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol
 level, sugar content and acidity level) are associated with higher wine quality
 
-### ⛽️ [Case Study #2 Fuel Economy]()
-
-Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy.
-
 ### 🎬 [Project #2 TMDb Movie Analysis](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project2-%20Kaggle-Movie%20Dataset%20.ipynb)
 
 Analysing more than 10,000 TMDb movies and getting the answers to 
