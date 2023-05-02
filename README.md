@@ -20,8 +20,7 @@ _Click on the project title to view my projects! 🙂_
 
 ## Part 1: Welcome to the Nanodegree Program
 
-### 🌤 [Project #1 Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb)
-
+### 🌤 [Project #1 Explore Weather Trends]
 In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
 ***
@@ -55,7 +54,7 @@ For this project, worked to understand the results of an A/B test run by an e-co
 
 ## Part 4: Data Wrangling
 
-### [Project #4 Wrangle and Analyze Data] ()
+### [Project #4 Wrangle and Analyze Data](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Wrangle%20and%20Analyze%20Data%20-%20WeRateDogs.ipynb)
 
 ***
 
